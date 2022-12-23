@@ -1,13 +1,12 @@
-### Hi there 👋, I'm Geomarcia Ramos!
+### Olá, sou a Geomarcia Ramos!
 ##
-### 😀 About me
-- Passionate about technology and the various possibilities to learn!!
-- When it comes to Front-end, I use React, I like to think about how to make the logic, reuse components and keep the code organized. 
-I research and apply new elements within this library, such as Hooks.
--  I'm currently focused on learning back-end. At the beginning of my back journey, I understood about NodeJS and its famous framework, Express.
-- In my free time I like to read, meditate, train weights and connect with friends and family.
-- I like teamwork mainly because of the possibility of having different points of view in pursuit of the same goal!
-### 🛰️Technologies and Tools
+### 😀 sobre mim
+- Apaixonada por tecnologia e pelas diversas possibilidades de aprender!!
+- Quando se trata de Front-end, eu uso React, gosto de pensar em como fazer a lógica, reaproveitar componentes e manter o código organizado. Pesquiso e aplico novos elementos dentro desta biblioteca, como Hooks.
+- Atualmente estou focada em aprender back-end. No início da minha jornada, eu entendi sobre NodeJS e seu famoso framework, o Express.
+- No meu tempo livre gosto de ler, meditar, treinar musculação e me conectar com novas pessoas, amigos e familiares.
+- Gosto do trabalho em equipe principalmente pela possibilidade de se ter diferentes pontos de vista em busca do mesmo objetivo!
+### 🛰️Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
 <img align="center" alt="Geo-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Geo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
