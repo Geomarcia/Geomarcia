@@ -6,6 +6,7 @@
 - Atualmente estou focada em aprender back-end. No início da minha jornada, eu entendi sobre NodeJS e seu famoso framework, o Express.
 - No meu tempo livre gosto de ler, meditar, treinar musculação e me conectar com novas pessoas, amigos e familiares.
 - Gosto do trabalho em equipe principalmente pela possibilidade de se ter diferentes pontos de vista em busca do mesmo objetivo!
+- Fica à vontade pra entrar em contato: geoframos@gamail.com
 ### 🛰️Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
 <img align="center" alt="Geo-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
